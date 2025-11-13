@@ -1,6 +1,6 @@
 ## Air Quality Prediction 
 
-###Software and tools requirement
+Software and tools requirement
 ```
 1.[Github Account](https://github.com)
 2.[HerokuAccoount](https://heroku.com)
